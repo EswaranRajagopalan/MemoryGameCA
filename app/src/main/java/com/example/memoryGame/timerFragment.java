@@ -1,4 +1,4 @@
-package com.example.androidcalm;
+package com.example.memoryGame;
 
 import android.os.Bundle;
 import android.os.Handler;

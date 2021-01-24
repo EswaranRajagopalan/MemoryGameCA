@@ -1,4 +1,4 @@
-package com.example.androidcalm;
+package com.example.memoryGame;
 
 import org.junit.Test;
 

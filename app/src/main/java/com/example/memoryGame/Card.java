@@ -1,7 +1,5 @@
-package com.example.androidcalm;
+package com.example.memoryGame;
 
-import android.graphics.Bitmap;
-import android.media.Image;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.widget.ImageView;

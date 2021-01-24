@@ -1,11 +1,10 @@
-package com.example.androidcalm;
+package com.example.memoryGame;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
