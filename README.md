@@ -1,6 +1,6 @@
 # MemoryGameCA
 
-The application is a memory matching game. The game has two modes
+The application is a memory matching game devloped in Android. The game has two modes
 
 Mode 1:
 
